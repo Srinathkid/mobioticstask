@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837374086927",
+    "firebase_url": "https://mobiotics-task.firebaseio.com",
+    "project_id": "mobiotics-task",
+    "storage_bucket": "mobiotics-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837374086927:android:e8af8526ccfce70e",
+        "android_client_info": {
+          "package_name": "com.srinath.mobioticstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837374086927-63ghmvsdhddradtvl3p89hhmehc000u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGIl5FEDFpmgLmcXqtNFveB1OWmRFAOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
